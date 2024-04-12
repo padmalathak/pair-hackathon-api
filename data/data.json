@@ -1,0 +1,94 @@
+[
+  {
+    "id": "0",
+    "name": "Padma",
+    "title": "Software Development Engineer",
+    "email": "padmalathalakshmi@gmail.com",
+    "phonenumber": "+16047247962",
+    "skills": [
+      "c",
+      "c++",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "ReactJS",
+      "NodeJS",
+      "MySQL"
+    ],
+    "experience": [
+      {
+        "id": "35bba08b-1b51-4153-ba7e-6da76b5ec1b9",
+        "title": "Software Development Engineer",
+        "company": "Honeywell",
+        "Duration": "APR 2018 - MAR 2020",
+        "location": "MADURAI,TN",
+        "description": [
+          " Having extensive experience in all aspects of the software development life cycle, I have effectively managed multiple stages such as defining requirements, designing prototypes, implementing  interfaces, conducting thorough testing, and ensuring ongoing maintenance",
+          "Involved in designing and implementing Takeoff and Landing(TOLD) software packages for given aircraft such as Gulfstream(G650 and PV10), Embraer(ERJ), and Dassault(DF7x)."
+        ]
+      },
+      {
+        "id": "091de676-61af-4ee6-90de-3a7a53af7521",
+        "title": "Software Development Engineer",
+        "company": " Temenos PVT Ltd",
+        "Duration": "DEC 2017 - APR 2018",
+        "location": "CHENNAI, TN",
+        "description": [
+          " Analyzed clients' requirements to develop products on the T24 core module platform, resulting in the successful implementation of new functionalities",
+          "Possesses a strong understanding of payment operations and the requirements from the viewpoint of a customer at a bank."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "name": "Arpita Deb",
+    "title": "Software Engineer",
+    "email": "arpitadeb1990@gmail.com",
+    "phonenumber": "306-241-4180",
+    "skills": [
+      "Next.js",
+      "REST API",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "ReactJS",
+      "NodeJS",
+      "MySQL",
+      "Bootstrap",
+      "Tailwind",
+      "SCSS",
+      "AWS SDK",
+      "Type ORM",
+      "MongoDB",
+      "PostgreSQL",
+      "JEST",
+      "Cypress",
+      "Mocha",
+      "CircleCI"
+    ],
+    "experience": [
+      {
+        "id": "ade82e25-6c87-4403-ba35-47bdff93a51c",
+        "title": "Full Stack Web Developer",
+        "company": "iRadar Data",
+        "Duration": "APR 2022 - JUN 2023",
+        "location": "OTTAWA, ON",
+        "description": [
+          "Worked on 30 - 40 features based on design specifications using React hooks, Context API, Formik, TypeScript, and MongoDB",
+          "Ensuring responsive web application development with JavaScript,Node.js, and TypeScript, integrating AWS services for serverless applications, and optimizing MongoDB queries for scalability resulting in 15% improvement in user experience."
+        ]
+      },
+      {
+        "id": "bf704c76-cba9-462e-ac0a-166315df756c",
+        "title": "Full Stack Web Developer (Internship Part-time)",
+        "company": "iRadar Data",
+        "Duration": "OCT 2020 - MAR 2022",
+        "location": "OTTAWA, ON",
+        "description": [
+          " Provided support to end-users, assisted in web application development and maintenance, and took 100% ownership of assigned tasks to ensure timely completion and reporting progress."
+        ]
+      }
+    ]
+  }
+]
